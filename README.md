@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a 17-year-old developer with a passion for cod
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bpedd7&show_icons=true&hide_title=true)
 
 ## 📬 Get in Touch
 - 💬 Reach out to me via GitHub issues, or contact me on Discord at `@bpedd`.
